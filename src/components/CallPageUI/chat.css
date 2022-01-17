@@ -1,0 +1,27 @@
+.chatbox{
+    background-color: #00796b;
+
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    display: inline-block;
+    font: 500 14px/16px Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    letter-spacing: .15px;
+   
+    outline: 0;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    white-space: normal;
+
+    transition: 1s;
+  
+    position: absolute;
+    right:10px;
+    top:10px;
+    color:white;
+}
+.chatbox:hover{
+    background-Color:white;
+    color:#00796b;
+    transition: 1s;
+  }

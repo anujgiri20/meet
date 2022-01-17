@@ -1,0 +1,6 @@
+export const SET_CALL_INPUT = 'SET_CALL_INPUT';
+export const SET_HANGUP_BUTTON = 'SET_HANGUP_BUTTON';
+export const SET_MEETING_TYPE = 'SET_MEETING_TYPE';
+export const SET_MEETING_LEFT = 'SET_MEETING_LEFT';
+export const TOGGLE_MIC = 'TOGGLE_MIC';
+export const TOGGLE_WEBCAM = 'TOGGLE_WEBCAM';

@@ -1,0 +1,23 @@
+.pointer_
+{
+    position: absolute;
+    background-color:#00796b;
+    top:10px;
+    left:10px;
+    border-radius: 32.5px;
+    transition: 1s;
+}
+
+
+.pointer_:hover{
+    background-color:white;
+    transition: 1s;
+}
+.icons_more{
+    color:white;
+    transition: 1s;
+}
+.icons_more:hover{
+    color: #00796b;
+    transition: 1s;
+}
